@@ -1,0 +1,6 @@
+{
+    // quail path can be set via your environment PATH, a vscode workspace path, or uncomment below
+    // "wce-vscode.quailPath": "/path/to/quail"
+    "wce-vscode.convertOnSave": true,
+    "wce-vscode.convertTargetPath": "temp.s3d"
+}
